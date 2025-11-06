@@ -15,27 +15,22 @@ A real-time chat application built using **Flutter** and **Firebase**, featuring
 - Works on Android and Web
 
 ---
-
-## 🔹 Demo Video
-
-🎥 Watch the full demo video here:  
-👉 [View Demo Video](https://github.com/chandhresh/Messenger/raw/main/screenshorts/demo.mp4)
-
----
-
-## 🔹 Screenshots
-
 | Login | Signup | Firebase |
 |--------|---------|-----------|
-| ![](screenshorts/login.png) | ![](screenshorts/signup1.png) | ![](screenshorts/firebase.png) |
+| ![](login.png) | ![](singup1.png) | ![](firebase.png) |
 
 | User List | Online Users | Chat |
 |------------|---------------|------|
-| ![](screenshorts/userlist.png) | ![](screenshorts/onlineuser.png) | ![](screenshorts/chat.png) |
+| ![](userlist.png) | ![](onlineuser.png) | ![](chat.png) |
 
 | Typing Indicator |
 |------------------|
-| ![](screenshorts/typing.jpg) |
+| ![](typing.png) |
+
+### 🎬 Demo Video
+You can view the working demo here:
+
+[▶️ Watch Demo](demo.mp4)
 
 ---
 
