@@ -27,7 +27,7 @@ A real-time chat application built using **Flutter** and **Firebase**, featuring
 
 | Login | Signup | Firebase |
 |--------|---------|-----------|
-| ![](screenshorts/login.png) | ![](screenshorts/signup.png) | ![](screenshorts/firebase.png) |
+| ![](screenshorts/login.png) | ![](screenshorts/signup1.png) | ![](screenshorts/firebase.png) |
 
 | User List | Online Users | Chat |
 |------------|---------------|------|
